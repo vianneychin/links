@@ -1,7 +1,11 @@
-frontend: user default avatar generator
+*frontend:* user default avatar generator
 <br>
 https://avatars.dicebear.com/
 
-frontend: svg curves generator
+*frontend:* svg curves generator
 <br>
 https://www.shapedivider.app/
+
+*frontend:* another svg curves generator
+<br>
+https://app.haikei.app/
