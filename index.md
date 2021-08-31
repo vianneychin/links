@@ -9,3 +9,6 @@ https://www.shapedivider.app/
 *frontend:* another svg curves generator
 <br>
 https://app.haikei.app/
+
+*ambiance* rain noises and stuff
+https://pluvior.com/
