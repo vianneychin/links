@@ -21,3 +21,6 @@ https://cyrildewit.github.io/2020/04/19/how-to-change-the-PHP-version-in-Laradoc
 *git:* git message conventions
 <br>
 https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709
+
+*code editor module for the web*
+https://codemirror.net/6/examples/tab/
